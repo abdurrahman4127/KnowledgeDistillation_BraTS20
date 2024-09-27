@@ -1,1 +1,0 @@
-# TchrStd_BraTS
